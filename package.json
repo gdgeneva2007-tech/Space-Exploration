@@ -1,0 +1,28 @@
+{
+  "name": "space-exploration",
+  "version": "1.0.0",
+  "description": "A multi-page informational site about Space Exploration with pages: Home, About, Solar System, and Contact. We'll use Express Router to organize routes properly.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gdgeneva2007-tech/Space-Exploration.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/gdgeneva2007-tech/Space-Exploration/issues"
+  },
+  "homepage": "https://github.com/gdgeneva2007-tech/Space-Exploration#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  }
+}
